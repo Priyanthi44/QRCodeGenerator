@@ -1,0 +1,5 @@
+Restrict : from event
+Make event bold
+Date format to UK
+Download qrcode as a pdf
+dont let the user select older date

@@ -1,0 +1,16 @@
+.qrclass qrcode {
+  width:128px;
+  height:128px;
+  margin-top:15px;
+  }
+.topbuffer { margin-top:20px; }
+.download  {
+border-width: thick;
+ background-color: lightgreen;
+}
+#Download{
+buttonBackground:lightgreen;
+}
+body {
+    background-color: lightblue;
+}
